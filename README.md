@@ -1,0 +1,2 @@
+- Master of AI in Department of Computer Science, FAU Erlangen-Nürnberg.
+- I am seeking efficient and scalable methods for deep learning deployment.
