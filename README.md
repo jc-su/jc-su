@@ -1,2 +1,2 @@
-- ✒️ CSE PhD student in Department of CSE, UConn.
-- 🔭 I am exploring efficient and scalable approaches for cloud computing.
+- ✒️ CSE PhD student in School of Computing, UConn.
+- 🔭 I am exploring efficient and scalable approaches for AI from theory to system.
